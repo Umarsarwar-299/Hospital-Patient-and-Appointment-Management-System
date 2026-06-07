@@ -1,6 +1,6 @@
 # Hospital-Patient-and-Appointment-Management-System
 
-# Hospital Patient and Appointment Management System
+
 ### Database Systems Project Report 
 
 ---
